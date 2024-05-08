@@ -2,7 +2,7 @@
 title: "A Boom in my Town: Human Capital Accumulation and Local Economic Conditions"
 collection: publications
 permalink: /publication/Boom
-excerpt: 'with Catalina Morales and Daniel Kraynak. Draft Available Upon Request.
+excerpt: 'with Catalina Morales and Daniel Kraynak. <i>Draft Available Upon Request.</i>
 
 ## Abstract
 
