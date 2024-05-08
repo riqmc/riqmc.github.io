@@ -1,20 +1,37 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+## Instructor
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# University of Maryland at College Park
 
-Heading 1
-======
+ECON424: Applied Econometrics, - Fall 2020, Spring 2021, Summer 2021, Fall 2021, Summer 2022 (Undergraduate)
 
-Heading 2
-======
 
-Heading 3
-======
+# Universidad de los Andes (Chile)
+
+Microeconomics I - Spring 2017, Fall 2017,  Spring 2018 (Undergraduate)
+
+Personnel Economics -  Spring 2018 (Undergraduate)
+
+## Teaching Assistant
+
+# University of Maryland at College Park
+
+ECON354: Using Big Data to Solve Economic and Social Problems - Fall 2022, Spring 2023  (Undergraduate)
+
+ECON644: Empirical Analysis II - Spring 2022 (Graduate)
+
+ECON424: Applied Econometrics - Spring 2020 (Undergraduate)
+
+ECON306: Intermediate Microeconomic Theory - Fall 2019 (Undergraduate)
+
+
+# Pontificia Universidad Católica de Chile
+
+EAE310B: Microeconomic Theory I - 2015 (Graduate)
+
+EAE205A: Econometrics I - 2015 (Undergraduate)
+
+EAE234A: Competition and Markets - 2014 (Undergraduate)
+
+EAE211B: Microeconomics II - 2012-2014 (Undergraduate)
+
+EAE120A: Introduction to Macroeconomics - 2011 and 2013 (Undergraduate)
