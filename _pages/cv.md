@@ -7,58 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
+Instructor
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* University of Maryland at College Park
+  * ECON424: Applied Econometrics, - Fall 2020, Spring 2021, Summer 2021, Fall 2021, Summer 2022 (Undergraduate)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Universidad de los Andes (Chile)
+  * Microeconomics I - Spring 2017, Fall 2017,  Spring 2018 (Undergraduate)
+  * Personnel Economics -  Spring 2018 (Undergraduate)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Teaching Assistant
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* University of Maryland at College Park
+  * ECON354: Using Big Data to Solve Economic and Social Problems - Fall 2022, Spring 2023  (Undergraduate)
+  * ECON644: Empirical Analysis II - Spring 2022 (Graduate)
+  * ECON424: Applied Econometrics - Spring 2020 (Undergraduate)
+  * ECON306: Intermediate Microeconomic Theory - Fall 2019 (Undergraduate)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Pontificia Universidad Católica de Chile
+  * EAE310B: Microeconomic Theory I - 2015 (Graduate)
+  * EAE205A: Econometrics I - 2015 (Undergraduate)
+  * EAE234A: Competition and Markets - 2014 (Undergraduate)
+  * EAE211B: Microeconomics II - 2012-2014 (Undergraduate)
+  * EAE120A: Introduction to Macroeconomics - 2011 and 2013 (Undergraduate)
