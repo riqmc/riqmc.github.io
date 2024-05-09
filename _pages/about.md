@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate in Economics at the [University of Maryland College Park](https://www.econ.umd.edu/).
+I am a PhD Candidate in Economics at the [University of Maryland at College Park](https://www.econ.umd.edu/).
 
 My main research interests are in Labor Economics with a focus on Education.
 
